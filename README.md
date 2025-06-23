@@ -11,9 +11,9 @@ Repositório para armazenar resumos sobre Git e GitHub do curso de Versionamento
 |-----|----------|
 | Aula 1 | Entendendo versionamento de código e o que é Git e GitHub |
 | Aula 2 | Instalação, configuração e autenticação |
-| Aula 3 | Criando e clonando repositórios |
-| Aula 4 | Salvando alterações no repositório local |
-| Aula 5 | Trabalhando com branches |
+| [Aula 3](https://www.notion.so/Git-GitHub-2185975ae67380789ed1c98a8e609bde?source=copy_link#2185975ae67380069bfbf7740032a5a6) | Criando e clonando repositórios |
+| [Aula 4](https://www.notion.so/Git-GitHub-2185975ae67380789ed1c98a8e609bde?source=copy_link#2185975ae6738022b346f943c61663d9) | Salvando alterações e adicionando commits |
+| [Aula 5](https://www.notion.so/Git-GitHub-2185975ae67380789ed1c98a8e609bde?source=copy_link#2185975ae673800c9ad0e32f5ed92078) | Trabalhando com branches |
 
 ## Referências
 - [Digital Innovation One](www.dio.me)
